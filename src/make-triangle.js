@@ -8,7 +8,7 @@ export default function Triangle() {
   return (
     <div className="App">
       <h1>Triangles</h1>
-      <h2>Enter three angles below: </h2>
+      <h2>Enter three angles below to make a triangle: </h2>
       <input onChange={inputClickHandler} />
       <input />
       <input />
